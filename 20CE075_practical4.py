@@ -1,6 +1,6 @@
 # 20CE075 PARTH PARMAR
 # Practical 3 Find Captain Room Number
-# GitHub link
+# https://github.com/Morningstar000/Python-Practical-4/blob/main/20CE075_practical4.py
 
 from collections import Counter
 
