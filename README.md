@@ -1,2 +1,2 @@
-# Python-Practical-4
-code for python practical 4
+# Python-Practical-3
+code for python practical 3
